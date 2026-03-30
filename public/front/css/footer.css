@@ -167,6 +167,8 @@ footer {
 
 .common-footer-wrapper.active {
   cursor: grabbing;
+  scroll-behavior: auto;
+  scroll-snap-type: none;
 }
 
 .common-footer-wrapper::-webkit-scrollbar {

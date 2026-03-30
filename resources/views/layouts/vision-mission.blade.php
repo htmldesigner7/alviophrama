@@ -55,9 +55,11 @@
                 </div>
             </div>
             <div class="vision-mission-imgs">
-                <img src="{{ asset('public/front/images/focus-icon.png') }}" class="img-fluid focus-icon" alt="Focus Icon">
+                <img src="{{ asset('public/front/images/focus-icon.png') }}" class="img-fluid our_com_focus_icon" alt="Focus Icon">
                 <img src="{{ asset('public/front/images/alvio-logo.png') }}" class="img-fluid alvio-logo" alt="Alvio Logo">
-                <img src="{{ asset('public/front/images/heart-icon.png') }}" class="img-fluid heart-icon" alt="Heart Icon">
+                <img src="{{ asset('public/front/images/heart-icon.png') }}" class="img-fluid our_com_heart_icon" alt="Heart Icon">
+                <img src="{{ asset('public/front/images/code-ch1.png') }}" class="img-fluid our_com_code_1" alt="Heart Icon">
+                <img src="{{ asset('public/front/images/code-ch2.png') }}" class="img-fluid our_com_code_2" alt="Heart Icon">
             </div>
         </div>
 

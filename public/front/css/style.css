@@ -286,3 +286,39 @@ a {
   position: relative;
   z-index: 99;
 }
+
+.our_com_focus_icon {
+  position: absolute;
+  top: 5em;
+  right: 3em;
+}
+
+.our_com_heart_icon {
+  position: absolute;
+  bottom: 2em;
+  left: 10em;
+}
+
+.our_com_code_1 {
+  position: absolute;
+  top: 2em;
+  left: 10em;
+}
+
+.our_com_code_2 {
+  position: absolute;
+  bottom: 2em;
+  right: 10em;
+}
+
+.our_com_code_1 {
+  position: absolute;
+  top: 0em;
+  left: 2em;
+}
+
+.our_com_code_2 {
+  position: absolute;
+  bottom: 1em;
+  right: 0em;
+}

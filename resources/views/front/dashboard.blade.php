@@ -2,7 +2,7 @@
 <section class="hero">
     <div class="hero_slider">
         <div class="hero-section">
-            <img src="{{ asset('public/front/images/Banner-1.webp') }}" alt="hero image">
+            <img class="img-fluid" src="{{ asset('public/front/images/Banner-1.webp') }}" alt="hero image">
             <div class="hero-content">
                 <h1 class="title-68">Advancing Healthcare with Purpose.</h1>
                 <p class="text--white col-lg-5">At Alvio Pharma, every breakthrough begins with one belief that science
@@ -19,7 +19,7 @@
             </div>
         </div>
         <div class="hero-section">
-            <img src="{{ asset('public/front/images/Banner-2.webp') }}" alt="hero image">
+            <img class="img-fluid" src="{{ asset('public/front/images/Banner-2.webp') }}" alt="hero image">
             <div class="hero-content">
                 <h1 class="title-68">Growing Burden of Chronic therapy , we are there to support patients.</h1>
                 <p class="text--white col-lg-5">Chronic Therapy understands the challenges you face and is committed to providing the support you need to navigate your journey. Let us help you manage the growing burden of chronic therapy together.
@@ -36,7 +36,7 @@
             </div>
         </div>
         <div class="hero-section">
-            <img src="{{ asset('public/front/images/Banner-3.webp') }}" alt="hero image">
+            <img class="img-fluid" src="{{ asset('public/front/images/Banner-3.webp') }}" alt="hero image">
             <div class="hero-content">
                 <h1 class="title-68">Your health is our priority</h1>
                 <p class="text--white col-lg-5">Alvio Pharma is a proud pharmaceutical product marketer that helps improve the lives of you and your loved ones.
